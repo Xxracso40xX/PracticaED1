@@ -20,6 +20,7 @@ public class Mayorsuma
 		suma=numero1+numero2;
 		do
 		{
+			//hola buenas tardes
 			System.out.println("Dame el número 3:");
 			numero3=Integer.parseInt(lectura.readLine());
 		if(suma>=numero3)
