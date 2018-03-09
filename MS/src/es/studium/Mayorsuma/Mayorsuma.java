@@ -29,6 +29,7 @@ public class Mayorsuma
 				numero2=numero3;
 		}
 		}
+		//Archivo modificado por Rafael Molino :)
 		while(suma>=numero3);
 	}
 }
